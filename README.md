@@ -1,4 +1,15 @@
-# Andaaza
+# andaaza
+
+what if we can store data into objects we use in our daily life? 
+what is our coffee cup is also a pen drive, which has a song from your grandma or encrypted your passwords?
+
+**concept**
+we are creating a tool that will encode audio messages into physical objects, which will then be retrieved and sonified. it will read or listen the messages we give and will engrave them on ceramics. 
+cups, pots and other things will be carriers of our stories and will travel through time. 
+it is a concept that deals with continuity and archiving. 
+
+for this first prototype, we are writing audio messages in real-time. a microphone will capture the audio and through arduino it will convert the message into a sound waves, which will be getting written on a paper cup. 
+
 
 
 Notes
