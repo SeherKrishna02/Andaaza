@@ -28,3 +28,5 @@ Embossing vs Cutting
 
 [DIY Record Cutting](http://fab.cba.mit.edu/classes/863.09/people/lifeform/13/index.html) Fabacademy project by David Robert
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPnAZQ4Q=/?moveToViewport=-5461,13217,3551,2031&embedId=907488838025" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
