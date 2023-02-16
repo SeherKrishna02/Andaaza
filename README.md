@@ -15,8 +15,7 @@ we started imagining how it would look, what materials, motors and tools would w
 disassembling a 3d printer that was left in our class from the 'tech beyond the myth' course. 
 
 
-Click on the image to view the presentation :)
-
+Click on the image to view the presentation :)  
 [![Fab Micro Challenge 1 Presentation](Andaaza.png)](https://www.canva.com/design/DAFaumtP7p8/6alduDLkCOwk2gHwn5hSnA/view?utm_content=DAFaumtP7p8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Useful Links and References
