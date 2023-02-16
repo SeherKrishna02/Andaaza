@@ -3,14 +3,16 @@
 what if we can store data into objects we use in our daily life? 
 what is our coffee cup is also a pen drive, which has a song from your grandma or encrypted your passwords?
 
-**concept**
+**concept**  
 we are creating a tool that will encode audio messages into physical objects, which will then be retrieved and sonified. it will read or listen the messages we give and will engrave them on ceramics. 
 cups, pots and other things will be carriers of our stories and will travel through time. 
 it is a concept that deals with continuity and archiving. 
 
 for this first prototype, we are writing audio messages in real-time. a microphone will capture the audio and through arduino it will convert the message into a sound waves, which will be getting written on a paper cup. 
 
-
+**plan**   
+we started imagining how it would look, what materials, motors and tools would we need. the more we tried to describe it, the more complex it got. multiple axes, motors, spinning wheels and plates started getting shape and that was only the hardware. 
+disassembling a 3d printer that was left in our class from the 'tech beyond the myth' course. 
 
 Notes
 
