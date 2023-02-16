@@ -14,6 +14,8 @@ for this first prototype, we are writing audio messages in real-time. a micropho
 we started imagining how it would look, what materials, motors and tools would we need. the more we tried to describe it, the more complex it got. multiple axes, motors, spinning wheels and plates started getting shape and that was only the hardware. 
 disassembling a 3d printer that was left in our class from the 'tech beyond the myth' course. 
 
+
+Click on the image to view the presentation :)
 [![Fab Micro Challenge 1 Presentation](Andaaza.png)](https://www.canva.com/design/DAFaumtP7p8/6alduDLkCOwk2gHwn5hSnA/view?utm_content=DAFaumtP7p8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Useful Links and References
@@ -26,5 +28,4 @@ disassembling a 3d printer that was left in our class from the 'tech beyond the 
 
 [DIY Record Cutting](http://fab.cba.mit.edu/classes/863.09/people/lifeform/13/index.html) Fabacademy project by David Robert
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPnAZQ4Q=/?moveToViewport=-5461,13217,3551,2031&embedId=907488838025" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
