@@ -18,6 +18,10 @@ disassembling a 3d printer that was left in our class from the 'tech beyond the 
 Click on the image to view the presentation :)  
 [![Fab Micro Challenge 1 Presentation](Andaaza.png)](https://www.canva.com/design/DAFaumtP7p8/6alduDLkCOwk2gHwn5hSnA/view?utm_content=DAFaumtP7p8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+here are our files to laser cut the turning table 
+![dxf drawing](microchallenge.dxf)  
+![3dm drawing](microchallenge_clean)
+
 ## Useful Links and References
 
 [Using the Arduino AccelStepper Library](https://hackaday.io/project/183713-using-the-arduino-accelstepper-library)
