@@ -16,10 +16,13 @@ the central idea has a lot of potential both on a theoretical, speculative level
 we started imagining how it would look, what materials, motors and tools would we need. the more we tried to describe it, the more complex it got. multiple axes, motors, spinning wheels and plates started getting shape.. and that was only the hardware.  
 
 we decided to use some pieces of an old 3d printer that was in our class from the 'tech beyond the myth' course, so we started by disassembling it.
-we took apart the aluminum rails to build our new frame and the motors: one for the vertical movement (Z axis) and one to rotate the turntable. the latter had to be designed from scratch with the motor and the dimensions of the railss as the only guidelines. 
+we took apart the aluminum rails to build our new frame and the motors: one for the vertical movement (Z axis) and one to rotate the turntable. the latter had to be designed from scratch with the motor and the dimensions of the rails as the only guidelines.  
 
 **iterating**  
-according to our predictions, we were relatively lucky. we managed to make our first laser cut pieces fit together (ok, with some sanding) and 
+according to our predictions, we were relatively lucky. we managed to make our first laser cut pieces fit together (ok, with some sanding) and press-fit.  
+
+
+
 Click on the image to view the presentation :)  
 [![Fab Micro Challenge 1 Presentation](Andaaza.png)](https://www.canva.com/design/DAFaumtP7p8/6alduDLkCOwk2gHwn5hSnA/view?utm_content=DAFaumtP7p8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
