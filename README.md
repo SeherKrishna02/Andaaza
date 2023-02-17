@@ -1,7 +1,20 @@
-# andaaza
+# andaaza  
 
-what if we can store data into objects we use in our daily life? 
-what is our coffee cup is also a pen drive, which has a song from your grandma or encrypted your passwords?
+## **initial ideas**  
+we started by ideating about the concept of **measuring** in a post scientific way from a hyperpersonal perspective. We speculated and questioned each other:  
+- when does measuring stop facilitating and start preventing a process?  
+- are the usual measuring units opposite to replicability?  
+- why do we measure things?  ..to save time instead of doing everything by trial & error, capitalism, control outcome prediction.  
+
+other fields we wanted to explore were **storytelling**, the strict binary distinction between the 'positive' and the 'negative' of molds and objects.   
+
+eventually, our final idea emerged and triggered questions about...   
+what if we can **store data** inside objects we use in our daily life?  
+what is our **coffee cup is also a pen drive**, which has a song from your grandma or encrypted your passwords?  
+
+what if we can store data into objects we use in our daily life?  
+what is our coffee cup is also a pen drive, which has a song from your grandma or encrypted your passwords?  
+
 
 ## **concept**  
 we are creating a tool that will encode audio messages into physical objects, which will then be retrieved and sonified. it will read or listen the messages we give and will engrave them on ceramics. 
