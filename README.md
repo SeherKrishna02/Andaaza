@@ -18,9 +18,11 @@ we started imagining how it would look, what materials, motors and tools would w
 we decided to use some pieces of an old 3d printer that was in our class from the 'tech beyond the myth' course, so we started by disassembling it.
 we took apart the aluminum rails to build our new frame and the motors: one for the vertical movement (Z axis) and one to rotate the turntable. the latter had to be designed from scratch with the motor and the dimensions of the rails as the only guidelines.  
 
-**iterating**  
-according to our predictions, we were relatively lucky. we managed to make our first laser cut pieces fit together (ok, with some sanding) and press-fit.  
+![](andaaza.jpg)
 
+**iterating**  
+according to our predictions, we were relatively lucky. we managed to make our first laser cut pieces fit together (ok, with some sanding).  
+we had to test the holes for the press fit a couple of times before sending our full printing file, which was different for each material. 
 
 
 Click on the image to view the presentation :)  
