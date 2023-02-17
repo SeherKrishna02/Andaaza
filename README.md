@@ -3,7 +3,7 @@
 what if we can store data into objects we use in our daily life? 
 what is our coffee cup is also a pen drive, which has a song from your grandma or encrypted your passwords?
 
-**concept**  
+## **concept**  
 we are creating a tool that will encode audio messages into physical objects, which will then be retrieved and sonified. it will read or listen the messages we give and will engrave them on ceramics. 
 cups, pots and other things will be carriers of our stories and will travel through time. 
 it is a concept that deals with continuity and archiving.  
@@ -12,7 +12,7 @@ for this first prototype, we are writing audio messages in real-time. a micropho
 
 the central idea has a lot of potential both on a theoretical, speculative level but also on the technological level. based on our existing collective knowledge we approached this challenge with a 'realistic ambition'.    
 
-**plan**   
+## **plan**   
 we started imagining how it would look, what materials, motors and tools would we need. the more we tried to describe it, the more complex it got. multiple axes, motors, spinning wheels and plates started getting shape.. and that was only the hardware.  
 
 we decided to use some pieces of an old 3d printer that was in our class from the 'tech beyond the myth' course, so we started by disassembling it.
@@ -20,7 +20,7 @@ we took apart the aluminum rails to build our new frame and the motors: one for 
 
 ![](andaaza.jpg)
 
-**iterating**  
+## **iterating**  
 according to our predictions, we were relatively lucky. we managed to make our first laser cut pieces fit together (ok, with some sanding).  
 we had to test the holes for the press fit a couple of times before sending our full printing file, which was different for each material. 
 
