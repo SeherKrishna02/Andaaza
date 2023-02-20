@@ -37,10 +37,14 @@ we took apart the aluminum rails to build our new frame and the motors: one for 
 according to our predictions, we were relatively lucky. we managed to make our first laser cut pieces fit together (ok, with some sanding).  
 we had to test the holes for the press fit a couple of times before sending our full printing file, which was different for each material. 
 
-![](process2.jpg)
+![](process2.jpg)  
+
+
+![](andaaza2.jpg)  
+
+
 even though we didnt get as far as converting audio input into soundgraph in the paper cup, we did manage to connect the microphone and plot the sound on the arduino interface.  
 
-![](andaaza2.jpg)
 
 Click on the image to view the presentation :)  
 [![Fab Micro Challenge 1 Presentation](Andaaza.png)](https://www.canva.com/design/DAFaumtP7p8/6alduDLkCOwk2gHwn5hSnA/view?utm_content=DAFaumtP7p8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
