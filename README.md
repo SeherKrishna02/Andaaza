@@ -28,8 +28,8 @@ the central idea has a lot of potential both on a theoretical, speculative level
 ## **plan**   
 we started imagining how it would look, what materials, motors and tools would we need. the more we tried to describe it, the more complex it got. multiple axes, motors, spinning wheels and plates started getting shape.. and that was only the hardware.  
 
-we decided to use some pieces of an old 3d printer that was in our class from the 'tech beyond the myth' course, so we started by disassembling it.
-we took apart the aluminum rails to build our new frame and the motors: one for the vertical movement (Z axis) and one to rotate the turntable. the latter had to be designed from scratch with the motor and the dimensions of the rails as the only guidelines.  
+This project made use of some parts rescued from an out of service reprap 3D printer that was left in out classroom from the 'tech beyond the myth' course, so we started by disassembling it. We used 2 servo motors, one for the turntable and one for the 2-axis. We also repurposed the controller boards which consistsed of an Arduino Mega and a Ramps 1.4 shield for the Mega. In addition to the electronics we were able to use the alumunim rails and various nuts and bolts from the old 3D printer to construct the drawing/carving machine. 
+
 
 ![](andaaza.jpg)
 
@@ -42,16 +42,15 @@ we had to test the holes for the press fit a couple of times before sending our 
 
 ![](andaaza2.jpg)  
 
+We knew this would be an ambitious artifact to make, and we most likely wouldn't be able to complete it in the four days of the first micro challenge. We planned to make the first iteration of the prototype in the first week, which consists of a motorized turntable and an arm that could move up and down and hold different toolheads such as a pen. This first iteration was designed to write on a paper cup and test out our idea. 
 
-even though we didnt get as far as converting audio input into soundgraph in the paper cup, we did manage to connect the microphone and plot the sound on the arduino interface.  
+Though we didn't have time to connect the sound input to the project, we did manage to connect a microphone and plot the sound on the Arduion serial plotter. We will be exploring the sound interface in the coming weeks. This week, we managed to build a simple turntable and motorize it, as well as create a frame for the z-axis that will serve as an interchangeable toolhead for pens and carving tools. We still have some work to do on the z-axis plate to correct some sagging as it moves up and down as well as redesiging it to better hold pens and tools. Though our rubberband solution works quite well, especially if there are only 4 days to build. :)
 
 
 Click on the image to view the presentation :)  
 [![Fab Micro Challenge 1 Presentation](Andaaza.png)](https://www.canva.com/design/DAFaumtP7p8/6alduDLkCOwk2gHwn5hSnA/view?utm_content=DAFaumtP7p8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-here are our files to laser cut the turning table  
-![dxf drawing](microchallenge.dxf)   
-![3dm drawing](microchallenge_clean)  
+ 
 
 ## Useful Links and References
 
