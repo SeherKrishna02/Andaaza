@@ -50,9 +50,9 @@ Though we didn't have time to connect the sound input to the project, we did man
 
 ## **Week 02**
 
-![](images/cup_holder.jpg)
-![](images/tool_holder.jpg)
-![](images/cup_box.jpg)
+![](images/cup_holder.JPG)
+![](images/tool_holder.JPG)
+![](images/cup_box.JPG)
 
 ![](images/andaaza-11.jpg)
 
