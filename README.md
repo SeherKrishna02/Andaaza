@@ -48,7 +48,7 @@ We knew this would be an ambitious artifact to make, and we most likely wouldn't
 
 Though we didn't have time to connect the sound input to the project, we did manage to connect a microphone and plot the sound on the Arduion serial plotter. We will be exploring the sound interface in the coming weeks. This week, we managed to build a simple turntable and motorize it, as well as create a frame for the z-axis that will serve as an interchangeable toolhead for pens and carving tools. We still have some work to do on the z-axis plate to correct some sagging as it moves up and down as well as redesiging it to better hold pens and tools. Though our rubberband solution works quite well, especially if there are only 4 days to build. :) 
 
-![andaaza-11](https://user-images.githubusercontent.com/115192295/225928021-71e76f7c-ef7a-4c07-a097-d31d7d593d7e.jpg)
+
 
 
 Click on the image to view the presentation :)  
