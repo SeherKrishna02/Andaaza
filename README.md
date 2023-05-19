@@ -50,15 +50,16 @@ Though we didn't have time to connect the sound input to the project, we did man
 
 ## **Week 02**
 
-![](images/cup_holder.jpeg)
-![](images/tool_holder.jpeg)
-![](images/cup_box.jpeg)
+![](docs/images/cup_holder.jpeg)
+![](docs/images/tool_holder.jpeg)
+![](docs/images/cup_box.jpeg)
 
-![](images/andaaza-11.jpg)
+![](docs/images/andaaza-11.jpg)
 
 ## **Design Dialogues**
-
-
+![](docs/images/DD2_Posters-01.png)
+![](docs/images/DD2_Posters-02.png)
+![](docs/images/DD2_Posters-04.png)
 
 Click on the image to view the presentation :)  
 [![Fab Micro Challenge 1 Presentation](Andaaza.png)](https://www.canva.com/design/DAFaumtP7p8/6alduDLkCOwk2gHwn5hSnA/view?utm_content=DAFaumtP7p8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
