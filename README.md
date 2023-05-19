@@ -69,9 +69,11 @@ Click on the image to view the presentation :)
 
 ## Audio Generated Visuals
 
-[Mother's Kitchen](https://editor.p5js.org/agjarv/full/4PX7xMz5z)
-[Grandmother's Kitchen](https://editor.p5js.org/agjarv/full/4PX7xMz5z)
-[My Kitchen](https://editor.p5js.org/agjarv/full/4PX7xMz5z)
+<iframe src="https://editor.p5js.org/agjarv/full/4PX7xMz5z"></iframe>
+
+[Mother's Kitchen](https://editor.p5js.org/agjarv/full/4PX7xMz5z)  
+[Grandmother's Kitchen](https://editor.p5js.org/agjarv/full/4PX7xMz5z)  
+[My Kitchen](https://editor.p5js.org/agjarv/full/4PX7xMz5z)  
 
 ## Useful Links and References
 
