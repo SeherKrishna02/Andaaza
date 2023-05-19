@@ -62,7 +62,6 @@ Click on the image to view the presentation :)
 
 ## Audio Generated Visuals
 
- (https://github.com/seherkrishna02/Andaazarecordings/recordings.md)
 
 ## Useful Links and References
 
