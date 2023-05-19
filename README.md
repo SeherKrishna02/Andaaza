@@ -1,6 +1,6 @@
-# andaaza  
+# ANDAAZA 
 
-## **initial ideas**  
+## **Initial Ideas**  
 we started by ideating about the concept of **measuring** in a post scientific way from a hyperpersonal perspective. We speculated and questioned each other:  
 - when does measuring stop facilitating and start preventing a process?  
 - are the usual measuring units opposite to replicability?  
@@ -16,7 +16,7 @@ what if we can store data into objects we use in our daily life?
 what is our coffee cup is also a pen drive, which has a song from your grandma or encrypted your passwords?  
 
 
-## **concept**  
+## **Concept**  
 we are creating a tool that will encode audio messages into physical objects, which will then be retrieved and sonified. it will read or listen the messages we give and will engrave them on ceramics. 
 cups, pots and other things will be carriers of our stories and will travel through time. 
 it is a concept that deals with continuity and archiving.  
@@ -25,7 +25,7 @@ for this first prototype, we are writing audio messages in real-time. a micropho
 
 the central idea has a lot of potential both on a theoretical, speculative level but also on the technological level. based on our existing collective knowledge we approached this challenge with a 'realistic ambition'.    
 
-## **plan**   
+## **Plan**   
 we started imagining how it would look, what materials, motors and tools would we need. the more we tried to describe it, the more complex it got. multiple axes, motors, spinning wheels and plates started getting shape.. and that was only the hardware.  
 
 This project made use of some parts rescued from an out of service reprap 3D printer that was left in out classroom from the 'tech beyond the myth' course, so we started by disassembling it. We used 2 servo motors, one for the turntable and one for the 2-axis. We also repurposed the controller boards which consistsed of an Arduino Mega and a Ramps 1.4 shield for the Mega. In addition to the electronics we were able to use the alumunim rails and various nuts and bolts from the old 3D printer to construct the drawing/carving machine. 
@@ -42,7 +42,7 @@ we had to test the holes for the press fit a couple of times before sending our 
 
 ![](andaaza2.jpg)  
 
-## **problems and improvements**
+## **Problems and Improvements**
 
 We knew this would be an ambitious artifact to make, and we most likely wouldn't be able to complete it in the four days of the first micro challenge. We planned to make the first iteration of the prototype in the first week, which consists of a motorized turntable and an arm that could move up and down and hold different toolheads such as a pen. This first iteration was designed to write on a paper cup and test out our idea. 
 
@@ -55,6 +55,9 @@ Though we didn't have time to connect the sound input to the project, we did man
 ![](images/cup_box.jpeg)
 
 ![](images/andaaza-11.jpg)
+
+## **Design Dialogues**
+
 
 
 Click on the image to view the presentation :)  
