@@ -1,4 +1,4 @@
-# **Our Journey**
+# ****
 
 ## **Initial Ideas**  
 We started by ideating about the concept of **measuring** in a post scientific way from a hyperpersonal perspective. We speculated and questioned each other:  
