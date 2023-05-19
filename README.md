@@ -63,9 +63,12 @@ Though we didn't have time to connect the sound input to the project, we did man
 ![](docs/images/DD2_Posters-02.png)
 ![](docs/images/DD2_Posters-04.png)
 
+
 Click on the image to view the presentation :)  
 [![Fab Micro Challenge 1 Presentation](Andaaza.png)](https://www.canva.com/design/DAFaumtP7p8/6alduDLkCOwk2gHwn5hSnA/view?utm_content=DAFaumtP7p8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+![](docs/images/DD2_table1.jpeg)
+![](docs/images/DD2_table2.jpeg)
 
 ## Audio Generated Visuals  
 
