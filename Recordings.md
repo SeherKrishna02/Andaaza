@@ -19,6 +19,10 @@ A visualization was made in p5.js to accompany the sound recordings.
 
 [Edit Code](https://editor.p5js.org/agjarv/sketches/o7EYgK_W5R)
 
+![](docs/images/tree_trial_00.png)  
+![](docs/images/tree_trial_01.png)
+![](docs/images/tree_trial_03.png) 
+
 ### Processing  
 
 These images were generated with the audio recordings in Processing using the minm library based on this paper by [Manuel Kretzer](http://responsivedesign.de/wp-content/uploads/2016/05/tutorial-06_processing-soundmapping2.pdf). 
