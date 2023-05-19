@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recordings
-permalink: /Recordings/
+permalink: /about/
 ---
 
 ## Audio Generated Visuals  
