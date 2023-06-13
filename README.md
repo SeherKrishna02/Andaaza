@@ -86,4 +86,9 @@ Click on the image to view the presentation :)
 
 [DIY Record Cutting](http://fab.cba.mit.edu/classes/863.09/people/lifeform/13/index.html) Fabacademy project by David Robert
 
+## Our Personal Webpages
+
+[Amanda Jarvis](https://agjarv.github.io/MDEF/term02/digitalprototyping/#micro-challenge-1)
+[Seher Krishna](https://seherkrishna02.github.io/mdef4/term2/04-Digital%20Prototyping%20for%20Design/)
+[Myrto Eirini Pappa](https://mypappa.github.io/MDEF/reflections/term2/prototyping/microchallenge%20i/microchallenge%20i/)
 
